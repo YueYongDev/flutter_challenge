@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                     primarySwatch: Colors.blue,
                   ),
                   darkTheme: ThemeData.dark(),
-                  home: MyHomePage(title: 'Flutter Dark Theme Demo'),
+                  home: MyHomePage(title: 'Flutter Challenge Demo'),
                 )
               : MaterialApp(
                   title: 'Flutter Demo',
