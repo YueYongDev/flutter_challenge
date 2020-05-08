@@ -5,6 +5,7 @@
 ## 已有功能
 
 * [深色/浅色模式适配](https://juejin.im/post/5eb27eb16fb9a0435608787c)
+* [语言国际化](https://juejin.im/post/5eb4f043f265da7be769e456)
 
 > 大家如果有什么建议实现的功能可以在issue中提出来……
 

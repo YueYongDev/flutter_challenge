@@ -1,0 +1,10 @@
+{
+  "appName": "Flutter Challenge",
+  "changeDarkMode": "Light/Dark Mode",
+  "changeLanguage": "Language",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "automatic": "Auto",
+  "test": "This is a language test"
+}
+
