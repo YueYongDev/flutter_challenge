@@ -5,6 +5,7 @@
   "darkMode": "深色模式",
   "lightMode": "浅色模式",
   "automatic": "跟随系统",
-  "test": "语言测试"
+  "test": "语言测试",
+  "test2": "你有 {count} 条消息"
 }
 

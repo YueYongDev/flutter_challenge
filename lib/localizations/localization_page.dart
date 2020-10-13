@@ -35,6 +35,7 @@ class _LocalizetionPageState extends State<LocalizetionPage> {
           children: [
             SizedBox(height: 20),
             Text(S.of(context).test, style: TextStyle(fontSize: 20)),
+            Text(S.of(context).test2(2), style: TextStyle(fontSize: 20)),
             new ExpansionTile(
               title: Text(S.of(context).changeLanguage),
               leading: Icon(Icons.language),

@@ -19,6 +19,8 @@ typedef String MessageIfAbsent(String messageStr, List<dynamic> args);
 class MessageLookup extends MessageLookupByLibrary {
   String get localeName => 'en';
 
+  static m0(count) => "you have ${count} messages";
+
   final messages = _notInlinedMessages(_notInlinedMessages);
   static _notInlinedMessages(_) => <String, Function> {
     "appName" : MessageLookupByLibrary.simpleMessage("Flutter Challenge"),
@@ -27,6 +29,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "changeLanguage" : MessageLookupByLibrary.simpleMessage("Language"),
     "darkMode" : MessageLookupByLibrary.simpleMessage("Dark Mode"),
     "lightMode" : MessageLookupByLibrary.simpleMessage("Light Mode"),
-    "test" : MessageLookupByLibrary.simpleMessage("This is a language test")
+    "test" : MessageLookupByLibrary.simpleMessage("This is a language test"),
+    "test2" : m0
   };
 }

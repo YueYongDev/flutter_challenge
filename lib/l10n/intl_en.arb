@@ -5,6 +5,7 @@
   "darkMode": "Dark Mode",
   "lightMode": "Light Mode",
   "automatic": "Auto",
-  "test": "This is a language test"
+  "test": "This is a language test",
+  "test2": "you have {count} messages"
 }
 
